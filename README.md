@@ -52,9 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alonc7/Alonc7/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Alonc7/count.svg?"  />

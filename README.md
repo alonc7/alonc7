@@ -2,8 +2,7 @@
 
 ###
 
-<p align="center">My name is Alon Kochman<br><br>Currently, I'm based in Israel, and I'm a full-stack developer :)<br><br>✨ creating bugs since 2021<br>📚 currently learning: TS, and nodeJS to its core.<br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>🎲 Fun fact: "Life would be much easier if I could just CTRL+F my kitchen for snacks. 🍕🍪"</p>
-
+<p align="center">My name is Alon Kochman<br><br>Currently, I'm based in Israel, and I'm a full-stack developer :)<br><br>✨ creating bugs since 2021<br>📚 currently learning: TS, and nodeJS to its core.<br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>
 ###
 
 <div align="center">

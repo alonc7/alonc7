@@ -2,14 +2,13 @@
 
 ###
 
-<p align="center">My name is Alon Kochman<br><br>Currently, I'm based in Israel, and I'm a full-stack developer :)<br><br>✨ creating bugs since 2021<br>📚 currently learning: TS, and nodeJS to its core.<br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>
+<p align="center">My name is Alon Kochman<br><br>Currently, I'm based in Israel, I am a coder 🧑‍💻 :)<br><br>✨ creating bugs since 2021<br>📚 currently learning: TS, and nodeJS to its core.<br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alonc7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <p align="left">I code with:</p>
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Alon Kochman<br><br>Currently, I'm based in Israel, I am a coder 🧑‍💻 :)<br><br>✨ creating bugs since 2021<br>📚 currently learning: TS, and nodeJS to its core.<br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>
+<p align="center">My name is Alon Kochman<br><br> web developer currently based in Israel 🧑‍💻 :)<br><br>✨ creating bugs since 2021<br>📚 learning: TS, and nodeJS to its core. using it to take action on the pro-Israeli side <br>🎯 Goals: Find meaning in my first workplace with a sense of mission.<br>
 ###
 
 <div align="center">
